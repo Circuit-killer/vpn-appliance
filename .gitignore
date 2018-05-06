@@ -1,0 +1,9 @@
+*.pro
+*.s#*
+*.b#*
+.~lock.*
+*.lck
+eagle.epf
+*.job
+*.bga
+*.l#*
